@@ -13,5 +13,5 @@ actors agensy
 создание админа 
 * python manage.py createsuperuser
 
-актёры доступны по эндпоинту api/actors
-админка admin/
+* актёры доступны по эндпоинту api/actors
+* админка admin/
